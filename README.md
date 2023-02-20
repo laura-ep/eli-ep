@@ -1,6 +1,6 @@
 # ELI-EP
 
-This is the issue tracker for the maintenance of ELI-EP.
+This is the issue tracker for the maintenance of ELI-EP. 
 
 ELI-EP is an application profile of the [ELI](https://op.europa.eu/en/web/eu-vocabularies/eli) and [ELI-DL](https://joinup.ec.europa.eu/collection/eli-european-legislation-identifier/solution/eli-ontology-draft-legislation-eli-dl/) ontologies, designed and used for data of the European Parliament.
 
